@@ -1,2 +1,2 @@
-# restaurant
+# Restaurant
 Restaurant create and Reservations
