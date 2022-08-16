@@ -13,4 +13,5 @@
 - Fill .env file.
 - npm install
 - composer install
+- php artisan migrate
 - php artisan schedule:run
